@@ -1,16 +1,22 @@
 # 👋 Hi, I'm Lucky Suhei 
 
-🚀 A learner on a mission to grow and explore 
+🚀 A learner on a mission to grow and explore  
 💡 I enjoy solving problems, experimenting with new tools, and turning ideas into working code.  
 🏀 Outside the terminal, I’m a **sports enthusiast** — applying the same values of **discipline, strategy, and teamwork** from sports into tech journey.  
 🌱 Currently building my foundation step by step, while exploring how **tech can impact real-world challenges**.  
 
----
+
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luckyrampei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Suhei hau) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suheigomhau@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-FF5733?logo=Instagram&logoColor=white)](https://instagram.com/luckyrampei) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4CAF50?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/suheihau) 
+[![Email](https://img.shields.io/badge/Email-1E90FF?logo=gmail&logoColor=white)](mailto:suheigomhau@gmail.com)
 
-# 💻 Tech Stack:
+
+
+
+
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -29,21 +35,33 @@
 ![Nmap](https://img.shields.io/badge/Nmap-000000.svg?style=for-the-badge&logo=nmap&logoColor=white) 
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SuheiHau&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SuheiHau&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuheiHau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📊 GitHub Stats:
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SuheiHau&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=SuheiHau&theme=dark&hide_border=false" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuheiHau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
+  </tr>
+</table>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SuheiHau&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SuheiHau&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=SuheiHau&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote & 🔝 Top Contributed Repo
+<table>
+  <tr>
+    <td width="50%" align="center" style="background-color:#0d1117; padding:10px;">
+      <img src="https://github-contributor-stats.vercel.app/api?username=SuheiHau&limit=8&theme=dark&combine_all_yearly_contributions=true" width="100%" />
+    </td>
+      <td width="50%" align="center" style="background-color:#0d1117; padding:50px; height:250px;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal6&theme=radical" width="100%" height="230"/>
+    </td>
+  </tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
